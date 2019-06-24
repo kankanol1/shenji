@@ -1,0 +1,49 @@
+.project
+.classpath
+*.iml
+*.ipr
+*.iws
+.idea/
+.gradle/
+release/
+/auditpoc-client/node_modules/
+/auditpoc-client/dist/
+/auditpoc-client/src/config/*.tmp
+/auditpoc-client/src/config/env.js
+/auditpoc-client/npm-debug.log
+/auditpoc-client/package-lock.json
+
+.gradle
+/dist/
+/build/
+/gradle/
+/out/
+/bin/
+/caches/
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### NetBeans ###
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+### Eclipse ###
+.settings
+.classpath
+.project

@@ -1,0 +1,684 @@
+{
+  "content": [
+    {
+      "nodes": {
+        "id": 400,
+        "uid": "C300050",
+        "name": "金森林",
+        "level": null,
+        "fromTime": null,
+        "regNumber": null,
+        "phoneNumber": null,
+        "regCapital": null,
+        "regInstitute": null,
+        "regLocation": null,
+        "industry": null,
+        "approvedTime": null,
+        "businessScope": null,
+        "estiblishTime": null,
+        "regStatus": null,
+        "legalPersonName": null,
+        "email": null,
+        "companyOrgType": null,
+        "base": null,
+        "value": 0,
+        "trueType": "Company"
+      },
+      "links": [
+        {
+          "id": 486,
+          "type": "TRADE",
+          "startNode": 400,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 151475.0
+            }
+          ]
+        },
+        {
+          "id": 478,
+          "type": "TRADE",
+          "startNode": 400,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 181910.7
+            }
+          ]
+        },
+        {
+          "id": 432,
+          "type": "TRADE",
+          "startNode": 400,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 151475.0
+            }
+          ]
+        },
+        {
+          "id": 389,
+          "type": "TRADE",
+          "startNode": 400,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 151475.0
+            }
+          ]
+        },
+        {
+          "id": 390,
+          "type": "TRADE",
+          "startNode": 400,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 151475.0
+            }
+          ]
+        }
+      ],
+      "counts": 5
+    },
+    {
+      "nodes": {
+        "id": 394,
+        "uid": "C300044",
+        "name": "日本海",
+        "level": null,
+        "fromTime": null,
+        "regNumber": null,
+        "phoneNumber": null,
+        "regCapital": null,
+        "regInstitute": null,
+        "regLocation": null,
+        "industry": null,
+        "approvedTime": null,
+        "businessScope": null,
+        "estiblishTime": null,
+        "regStatus": null,
+        "legalPersonName": null,
+        "email": null,
+        "companyOrgType": null,
+        "base": null,
+        "value": 0,
+        "trueType": "Company"
+      },
+      "links": [
+        {
+          "id": 491,
+          "type": "TRADE",
+          "startNode": 394,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 113160.0
+            }
+          ]
+        },
+        {
+          "id": 454,
+          "type": "TRADE",
+          "startNode": 394,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 113160.0
+            }
+          ]
+        },
+        {
+          "id": 469,
+          "type": "TRADE",
+          "startNode": 394,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 111315.0
+            }
+          ]
+        },
+        {
+          "id": 468,
+          "type": "TRADE",
+          "startNode": 394,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 113160.0
+            }
+          ]
+        },
+        {
+          "id": 470,
+          "type": "TRADE",
+          "startNode": 394,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 111315.0
+            }
+          ]
+        },
+        {
+          "id": 479,
+          "type": "TRADE",
+          "startNode": 394,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 111315.0
+            }
+          ]
+        },
+        {
+          "id": 418,
+          "type": "TRADE",
+          "startNode": 394,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 111315.0
+            }
+          ]
+        },
+        {
+          "id": 439,
+          "type": "TRADE",
+          "startNode": 394,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 111315.0
+            }
+          ]
+        },
+        {
+          "id": 392,
+          "type": "TRADE",
+          "startNode": 394,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 113160.0
+            }
+          ]
+        },
+        {
+          "id": 404,
+          "type": "TRADE",
+          "startNode": 394,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 5000.0
+            }
+          ]
+        },
+        {
+          "id": 403,
+          "type": "TRADE",
+          "startNode": 394,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 111315.0
+            }
+          ]
+        },
+        {
+          "id": 382,
+          "type": "TRADE",
+          "startNode": 394,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 113160.0
+            }
+          ]
+        },
+        {
+          "id": 375,
+          "type": "TRADE",
+          "startNode": 394,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 113160.0
+            }
+          ]
+        }
+      ],
+      "counts": 13
+    },
+    {
+      "nodes": {
+        "id": 403,
+        "uid": "C300053",
+        "name": "大友东本",
+        "level": null,
+        "fromTime": null,
+        "regNumber": null,
+        "phoneNumber": null,
+        "regCapital": null,
+        "regInstitute": null,
+        "regLocation": null,
+        "industry": null,
+        "approvedTime": null,
+        "businessScope": null,
+        "estiblishTime": null,
+        "regStatus": null,
+        "legalPersonName": null,
+        "email": null,
+        "companyOrgType": null,
+        "base": null,
+        "value": 0,
+        "trueType": "Company"
+      },
+      "links": [
+        {
+          "id": 422,
+          "type": "TRADE",
+          "startNode": 403,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 75330.0
+            }
+          ]
+        },
+        {
+          "id": 405,
+          "type": "TRADE",
+          "startNode": 403,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 611629.2
+            }
+          ]
+        }
+      ],
+      "counts": 2
+    },
+    {
+      "nodes": {
+        "id": 304,
+        "uid": "P00008",
+        "name": "体育馆卫生间及看台改造",
+        "year": null,
+        "value": 0,
+        "trueType": "Project",
+        "allLinks": []
+      },
+      "links": [
+        {
+          "id": 320,
+          "type": "TRADE",
+          "startNode": 226,
+          "endNode": 304,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "支付"
+            },
+            {
+              "key": "value",
+              "value": 20502.0
+            }
+          ]
+        },
+        {
+          "id": 343,
+          "type": "TRADE",
+          "startNode": 226,
+          "endNode": 304,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "支付"
+            },
+            {
+              "key": "value",
+              "value": 193327.29
+            }
+          ]
+        }
+      ],
+      "counts": 2
+    },
+    {
+      "nodes": {
+        "id": 331,
+        "uid": "D10004",
+        "name": "税务局",
+        "level": null,
+        "value": 0,
+        "trueType": "Department"
+      },
+      "links": [
+        {
+          "id": 458,
+          "type": "TRADE",
+          "startNode": 331,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 5000.0
+            }
+          ]
+        }
+      ],
+      "counts": 1
+    },
+    {
+      "nodes": {
+        "id": 421,
+        "uid": "N000028",
+        "name": "肖本国",
+        "value": 0,
+        "propHometown": null,
+        "trueType": "Person"
+      },
+      "links": [
+        {
+          "id": 359,
+          "type": "TRADE",
+          "startNode": 421,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 120999.6
+            }
+          ]
+        }
+      ],
+      "counts": 1
+    },
+    {
+      "nodes": {
+        "id": 412,
+        "uid": "C300062",
+        "name": "冠华天宇",
+        "level": null,
+        "fromTime": null,
+        "regNumber": null,
+        "phoneNumber": null,
+        "regCapital": null,
+        "regInstitute": null,
+        "regLocation": null,
+        "industry": null,
+        "approvedTime": null,
+        "businessScope": null,
+        "estiblishTime": null,
+        "regStatus": null,
+        "legalPersonName": null,
+        "email": null,
+        "companyOrgType": null,
+        "base": null,
+        "value": 0,
+        "trueType": "Company"
+      },
+      "links": [
+        {
+          "id": 441,
+          "type": "TRADE",
+          "startNode": 412,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 190420.5
+            }
+          ]
+        }
+      ],
+      "counts": 1
+    },
+    {
+      "nodes": {
+        "id": 322,
+        "uid": "P00026",
+        "name": "中心办公楼消防设施维修",
+        "year": null,
+        "value": 0,
+        "trueType": "Project",
+        "allLinks": []
+      },
+      "links": [
+        {
+          "id": 338,
+          "type": "TRADE",
+          "startNode": 226,
+          "endNode": 322,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "支付"
+            },
+            {
+              "key": "value",
+              "value": 20000.0
+            }
+          ]
+        }
+      ],
+      "counts": 1
+    },
+    {
+      "nodes": {
+        "id": 313,
+        "uid": "P00017",
+        "name": "健身馆弱电监控布线",
+        "year": null,
+        "value": 0,
+        "trueType": "Project",
+        "allLinks": []
+      },
+      "links": [
+        {
+          "id": 329,
+          "type": "TRADE",
+          "startNode": 226,
+          "endNode": 313,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "支付"
+            },
+            {
+              "key": "value",
+              "value": 75376.5
+            }
+          ]
+        }
+      ],
+      "counts": 1
+    },
+    {
+      "nodes": {
+        "id": 385,
+        "uid": "C300035",
+        "name": "聚力蝴蝶",
+        "level": null,
+        "fromTime": null,
+        "regNumber": null,
+        "phoneNumber": null,
+        "regCapital": null,
+        "regInstitute": null,
+        "regLocation": null,
+        "industry": null,
+        "approvedTime": null,
+        "businessScope": null,
+        "estiblishTime": null,
+        "regStatus": null,
+        "legalPersonName": null,
+        "email": null,
+        "companyOrgType": null,
+        "base": null,
+        "value": 0,
+        "trueType": "Company"
+      },
+      "links": [
+        {
+          "id": 453,
+          "type": "TRADE",
+          "startNode": 385,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 45018.0
+            }
+          ]
+        },
+        {
+          "id": 358,
+          "type": "TRADE",
+          "startNode": 385,
+          "endNode": 226,
+          "propertyList": [
+            {
+              "key": "role",
+              "value": "房租场租"
+            },
+            {
+              "key": "value",
+              "value": 33671.3
+            }
+          ]
+        }
+      ],
+      "counts": 2
+    }
+  ],
+  "totalPages": 3,
+  "totalElements": 30,
+  "last": false,
+  "size": 10,
+  "number": 1,
+  "sort": null,
+  "numberOfElements": 10,
+  "first": false
+}

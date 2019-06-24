@@ -1,0 +1,98 @@
+.qtip-custom{
+    font-size:15px;
+    line-height: 18px;
+    max-width: 450px;
+    overflow-y: auto;
+    max-height: 250px;
+}
+#graphLoadingContainer{
+    position: absolute;
+    top:0;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    z-index: 99;
+    background-color: rgba(239, 240, 243, 0.50);
+    display: none;
+    pointer-events: none;
+}
+.spinner {
+    position: absolute;
+    top:49%;
+    left: 49%;
+    width: 60px;
+    height: 60px;
+    background-color: #2d8cf0;
+    border-radius: 10px;
+    -webkit-animation: rotateplane 1.2s infinite ease-in-out;
+    animation: rotateplane 1.2s infinite ease-in-out;
+}
+
+@-webkit-keyframes rotateplane {
+    0% { -webkit-transform: perspective(120px) }
+    50% { -webkit-transform: perspective(120px) rotateY(180deg) }
+    100% { -webkit-transform: perspective(120px) rotateY(180deg)  rotateX(180deg) }
+}
+
+@keyframes rotateplane {
+    0% {
+        transform: perspective(120px) rotateX(0deg) rotateY(0deg);
+        -webkit-transform: perspective(120px) rotateX(0deg) rotateY(0deg)
+    } 50% {
+          transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg);
+          -webkit-transform: perspective(120px) rotateX(-180.1deg) rotateY(0deg)
+      } 100% {
+            transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+            -webkit-transform: perspective(120px) rotateX(-180deg) rotateY(-179.9deg);
+        }
+}
+
+.toolbar-container{
+    top:30px !important;
+    right: 45px !important;
+    left: inherit !important;
+
+}
+.toolbar-container .tool-item-list{
+    /*padding: 10px;*/
+    /*background-color: transparent !important;*/
+}
+
+.toolbar-container .tool-item-list-wrapper{
+    /*border-right:1px solid #e1e1e8;*/
+}
+.toolbar-container .tool-item-list span{
+    /*padding: 0px !important;*/
+}
+.cytoscape-graph-legend{
+     top:  20px;
+
+     left: 20px;
+     position: absolute;
+     z-index: 3;
+    font-size:15px;
+    font-weight: 600;
+ }
+.cytoscape-graph-legend-item{
+    width: 30px;
+    height: 15px;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    line-height: 1.5;
+    border-radius: .25rem;
+    cursor: pointer;
+}
+.cytoscape-graph-legend-item.inactive{
+    background: grey !important;
+}
+.cytoscape-graph-container{
+    height: 100%;
+    position:relative;
+}

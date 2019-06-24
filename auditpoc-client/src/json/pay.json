@@ -1,0 +1,96 @@
+{
+  "status": 1,
+  "msg": "处理成功!",
+  "data": {
+    "province": [
+      {
+        "id": 1,
+        "business_year": "2018",
+        "two_three_budget_department_name": "办公室",
+        "two_three_budget_department_code": "0069",
+        "one_budget_department_code": "0099",
+        "one_budget_department_name": "山东师范"
+      }
+    ],
+    "project": [],
+    "pay": {
+      "list_pie": [{
+        "economicSubjectsName": {
+          "绩效工资": 1,
+          "基本工资": 1
+        },
+        "payWayName": {
+          "财政授权支付": 2
+        },
+        "map_projectClassName": {
+          "基本支出": 2
+        },
+        "month": {
+          "11": 1,
+          "10": 1
+        },
+        "year": {
+          "2017": 2
+        },
+        "functionalSubjectsName": {
+          "归口管理的行政单位离退休": 2
+        },
+        "payeeClass": {
+          "1": 2
+        }
+      }]
+    },
+    "list_pay": [
+      {
+        "id": 1,
+        "budget_year": "2017",
+        "budget_department_code": "159014",
+        "budget_department_name": "山东省齐都公安局",
+        "functional_subjects_code": "2080501",
+        "functional_subjects_name": "归口管理的行政单位离退休",
+        "economic_subjects_code": "30101",
+        "economic_subjects_name": "基本工资",
+        "nature_funds_code": "1",
+        "source_of_indicators_code": "103",
+        "source_of_indicators_name": "当年预算",
+        "pay_way_code": "121",
+        "pay_way_name": "财政授权支付",
+        "budget_project_code": "1325506857843",
+        "budget_project_name": "非基本支出",
+        "project_class_code": "101",
+        "project_class_name": "基本支出",
+        "payee_name": "丁占国",
+        "payee_class": "1",
+        "pay_amount": "10967",
+        "remark": "退续费",
+        "month": "10"
+      },
+      {
+        "id": 3,
+        "budget_year": "2017",
+        "budget_department_code": "159014",
+        "budget_department_name": "山东省齐都公安局",
+        "functional_subjects_code": "2080501",
+        "functional_subjects_name": "归口管理的行政单位离退休",
+        "economic_subjects_code": "30101",
+        "economic_subjects_name": "绩效工资",
+        "nature_funds_code": "1",
+        "source_of_indicators_code": "103",
+        "source_of_indicators_name": "当年预算",
+        "pay_way_code": "121",
+        "pay_way_name": "财政授权支付",
+        "budget_project_code": "1325506857843",
+        "budget_project_name": "非基本支出",
+        "project_class_code": "101",
+        "project_class_name": "基本支出",
+        "payee_name": "丁占国",
+        "payee_class": "1",
+        "pay_amount": "10967",
+        "remark": "退续费",
+        "month": "11"
+      }
+    ]
+  },
+  "budget": []
+}
+
